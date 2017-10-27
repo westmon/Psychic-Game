@@ -1,0 +1,76 @@
+body {
+  background-color: green;
+  font-family: 'Metamorphous', cursive;
+}
+
+.title {
+  text-align: center;
+  display: block;
+-webkit-box-sizing: content-box;
+-moz-box-sizing: content-box;
+box-sizing: content-box;
+float: none;
+z-index: auto;
+width: auto;
+height: auto;
+position: static;
+cursor: default;
+opacity: 1;
+margin: 0;
+padding: 0;
+overflow: visible;
+border: none;
+-webkit-border-radius: 0;
+border-radius: 0;
+font: normal 50px/normal "Chau Philomene One", Helvetica, sans-serif;
+color: rgb(51, 51, 51);
+text-align: center;
+-o-text-overflow: clip;
+text-overflow: clip;
+letter-spacing: 3px;
+background: none;
+-webkit-box-shadow: none;
+box-shadow: none;
+text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+-webkit-transition: none;
+-moz-transition: none;
+-o-transition: none;
+transition: none;
+-webkit-transform: none;
+transform: none;
+-webkit-transform-origin: 50% 50% 0;
+transform-origin: 50% 50% 0;
+
+}
+
+#size {
+  font-size: 150%;
+  margin-top: 100px;
+}
+
+#question {
+
+  text-align: center;
+  padding: 50px; 
+}
+
+.col-md-4 {
+  color: orange;
+  text-align: center;
+  font-size: 125%;
+  padding: 30px;
+}
+
+audio {
+  display: none;
+}
+
+.used {
+      text-align: center;
+      padding: 20px;
+      font-size: 110%
+
+
+}
+
+
